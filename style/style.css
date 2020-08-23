@@ -25,7 +25,7 @@
 .name{
     color: white;
     font-size: 100px;
-    font-family:cursive;
+    font-family:"Comic Sans MS", sans-serif;
 }
 
 .hi{
@@ -40,7 +40,7 @@
 
 .tabs{
     padding: 20px;
-    font-family: fantasy;
+    font-family: sans-serif;
     cursor: pointer;
     font-size: large;
     color: wheat;
@@ -126,11 +126,11 @@
 
 .competitivetext{
     font-size: 40px;
-    font-family:cursive;
+    font-family:"Comic Sans MS",sans-serif;
 }
 
 .summary{
-    float:right;font-size: 30px;font-family: cursive;text-align: center;margin-right: 20%;margin-top:8%;width: 50%;
+    float:right;font-size: 30px;font-family: "Comic Sans MS", sans-serif;text-align: center;margin-right: 20%;margin-top:8%;width: 50%;
 }
 
 .competitive-padding{
