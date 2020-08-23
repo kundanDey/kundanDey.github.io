@@ -99,5 +99,9 @@
     }
     #snackbar {
         bottom:60px;
+        margin-left: -160px;
+    }
+    .img-prof{
+        margin-left:50px;
     }
 }
