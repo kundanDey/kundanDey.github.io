@@ -95,6 +95,7 @@
     width:100px;
     height:100px;
     padding:20px;
+    cursor: pointer;
 }
 
 .bodyHeader{
@@ -130,7 +131,7 @@
 }
 
 .summary{
-    float:right;font-size: 30px;font-family: "Comic Sans MS", sans-serif;text-align: center;margin-right: 20%;margin-top:8%;width: 50%;
+    float:right;font-size: 30px;font-family: "Comic Sans MS", sans-serif;;text-align: center;margin-right: 20%;margin-top:8%;width: 50%;
 }
 
 .competitive-padding{
