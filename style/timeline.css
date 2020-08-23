@@ -22,7 +22,7 @@
 
 /* Container around content */
 .container {
-  padding: 40px 40px;
+  padding: 12px 40px;
   position: relative;
   background-color: inherit;
   width: 50%;
