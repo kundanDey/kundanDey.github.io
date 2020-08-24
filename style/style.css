@@ -47,6 +47,10 @@
     text-decoration: none;
 }
 
+.download{
+    background:white;color:black;border-radius: 30%;font-size:25px;padding:15px;
+}
+
 .descp{
     padding-top:100px;
     text-align: center;
@@ -61,7 +65,7 @@
 }
 
 .sidenav {
-    height: 270px;
+    height: 320px;
     width: 50px;
     position: fixed;
     z-index: 2;
@@ -135,7 +139,8 @@
 }
 
 .competitive-padding{
-    padding:100px;
+    text-align: center;
+    margin-top:20px;
 }
 
 .footer{
@@ -145,3 +150,4 @@
     color:wheat;
     background:black;
 }
+
